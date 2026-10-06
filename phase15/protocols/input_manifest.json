@@ -1,0 +1,29 @@
+{
+  "status": "PENDING_PUBLIC_DEPOSIT",
+  "prepared_utc": "2026-10-06T11:58:55.756762+00:00",
+  "protocol_sha256": "d61b649a30dd942ffb986d93ea664a5c14875e24642a5ac96133692b5e2d7101",
+  "design_manifest_sha256": "e9b4127dbd58744d17f2a60bfc8ae81335c1342749b0f91f440020a57b7fbad8",
+  "new_families_estimated": 0,
+  "first_execution_scope": [
+    "N2 primary and pension sensitivity",
+    "Budget-weight analysis"
+  ],
+  "optional_N9_activated": false,
+  "phase15_supplied_input_sha256": {
+    "Porezna_kuce_za_odmor_2023_2024.xlsx": "79ecd68982d9d418ede04f1a52f41324addfeae200064f408b8bcb50a442ac86",
+    "IZVORI(1).md": "71febe9b72303c7bffabb518d1a5b98c46f6a1982465f2f8f23fca95c2696160",
+    "EIZ_Jurlina_Alibegovic_20240103.html": "cd6109c098ac8d3962d31a8b515393351a1dafe167ca2eafbdb39a98b46e5633",
+    "13_revizija_v5_i_nove_analize.md": "5f063c1765109eb4db4e93617e3d5d31066a4cd26184935c678e2cf2121799bd",
+    "MFIN_Pregled_promjene_poreznih_stopa_2023_2025.pdf": "8e48c2c00a5d6a101c47fa9841c7e13370736244aea2e70d9880f61079b6b5f2",
+    "14_dopuna_revizije_v5.md": "996f24bb3886220a06f9c1f56fefdd9bded462a09c67b597cc52f1f2aa3824f4"
+  },
+  "design_input_sha256": {
+    "phase13/clean/porezna_income_panel.csv": "b7c9e433bd2d79358df0f35746f55d5ff0afb8308606ccf437a942a132c9c2e0",
+    "phase8/results/annual_pit_components_556_2019_2025.csv": "061ef1f43bb4b5e898d49c84c9033d6b60806b39f27d9abe83067874c94cafc7",
+    "phase7/recovered_phase1/raw/mfin_2019_2025_euro.zip": "7c2b7036c52976440cf2d62d504e233f7487c8192fb0a56b8a378806dad58f44",
+    "phase12/results/o1_stake_fitted.csv": "17a4c9f020638598bff13bd06de2c64b192628d7a1741465ecfaf908d4352708",
+    "phase15/inputs/Porezna_kuce_za_odmor_2023_2024.xlsx": "79ecd68982d9d418ede04f1a52f41324addfeae200064f408b8bcb50a442ac86",
+    "phase15/results/budget_design_source_audit.csv": "d3b1bb2219271e5db853e1bb43b3a48b06b95512d279c76f0c1f25496475171c",
+    "phase15/common15.py": "152ce6819858cf178c4639dbb10cb25b7df88461461a16892d67d6c958d2d2a5"
+  }
+}

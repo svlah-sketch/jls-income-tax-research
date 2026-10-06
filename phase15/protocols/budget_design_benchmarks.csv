@@ -1,0 +1,5 @@
+sample,band,n,mean_stake,gamma_star,excluded_nonpositive_budget,regular_fit_known_separated
+A,low,180,8.056297872526784,2.014074468131696,0,False
+A,high,180,8.056297872526784,2.014074468131696,0,True
+B,low,301,7.96368350272065,1.9909208756801624,0,False
+B,high,301,7.96368350272065,1.9909208756801624,0,False

@@ -1,0 +1,60 @@
+{
+  "status": "DESIGN ONLY; no new-family estimation",
+  "prepared_utc": "2026-10-06T09:04:51.053108+00:00",
+  "proportional_schedules_main": 494,
+  "budget_benchmarks": [
+    {
+      "sample": "A",
+      "band": "low",
+      "n": 180,
+      "mean_stake": 8.056297872526784,
+      "gamma_star": 2.014074468131696,
+      "excluded_nonpositive_budget": 0,
+      "regular_fit_known_separated": false
+    },
+    {
+      "sample": "A",
+      "band": "high",
+      "n": 180,
+      "mean_stake": 8.056297872526784,
+      "gamma_star": 2.014074468131696,
+      "excluded_nonpositive_budget": 0,
+      "regular_fit_known_separated": true
+    },
+    {
+      "sample": "B",
+      "band": "low",
+      "n": 301,
+      "mean_stake": 7.96368350272065,
+      "gamma_star": 1.9909208756801624,
+      "excluded_nonpositive_budget": 0,
+      "regular_fit_known_separated": false
+    },
+    {
+      "sample": "B",
+      "band": "high",
+      "n": 301,
+      "mean_stake": 7.96368350272065,
+      "gamma_star": 1.9909208756801624,
+      "excluded_nonpositive_budget": 0,
+      "regular_fit_known_separated": false
+    }
+  ],
+  "holiday_structure": {
+    "n": 556,
+    "ranges2023": 47,
+    "ranges2024": 41,
+    "zeros2023": 95,
+    "zeros2024": 94,
+    "status": "SOURCE STRUCTURE ONLY; no outcome/exposure relation examined"
+  },
+  "inputs": {
+    "phase13/clean/porezna_income_panel.csv": "b7c9e433bd2d79358df0f35746f55d5ff0afb8308606ccf437a942a132c9c2e0",
+    "phase8/results/annual_pit_components_556_2019_2025.csv": "061ef1f43bb4b5e898d49c84c9033d6b60806b39f27d9abe83067874c94cafc7",
+    "phase7/recovered_phase1/raw/mfin_2019_2025_euro.zip": "7c2b7036c52976440cf2d62d504e233f7487c8192fb0a56b8a378806dad58f44",
+    "phase12/results/o1_stake_fitted.csv": "17a4c9f020638598bff13bd06de2c64b192628d7a1741465ecfaf908d4352708",
+    "phase15/inputs/Porezna_kuce_za_odmor_2023_2024.xlsx": "79ecd68982d9d418ede04f1a52f41324addfeae200064f408b8bcb50a442ac86",
+    "phase15/results/budget_design_source_audit.csv": "d3b1bb2219271e5db853e1bb43b3a48b06b95512d279c76f0c1f25496475171c",
+    "phase15/common15.py": "152ce6819858cf178c4639dbb10cb25b7df88461461a16892d67d6c958d2d2a5"
+  }
+}
